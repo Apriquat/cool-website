@@ -6,7 +6,7 @@
 
     <body>
         <?php
-            $severname = "localhost";
+            $severname = "10.81.8.94";
             $username = "root";
             $password = "WebDesign43450!";
             $dbname = "userDB";
